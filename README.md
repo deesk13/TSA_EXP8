@@ -18,6 +18,7 @@ the dataset
 10. Show the plot
 11. Also perform exponential smoothing and plot the graph
 ### PROGRAM:
+```
 # Import necessary libraries
 import pandas as pd
 import numpy as np
@@ -192,8 +193,9 @@ print(forecast)
 
 ### OUTPUT:
 
-Moving Average
-<img width="807" height="651" alt="image" src="https://github.com/user-attachments/assets/1c671bfe-397f-4d2a-ad51-1b321b2fd7af" />
+## Moving Average:
+<img width="807" height="651" alt="Screenshot 2026-09-07 162252" src="https://github.com/user-attachments/assets/db8b2d6a-b979-4ef2-be6b-9b0cb2c7316a" />
+
 <img width="720" height="341" alt="image" src="https://github.com/user-attachments/assets/9e972559-5aea-41fe-9381-77303eae932c" />
 <img width="917" height="667" alt="image" src="https://github.com/user-attachments/assets/80b123ce-bf6c-45f2-9e6e-296725905dd0" />
 
